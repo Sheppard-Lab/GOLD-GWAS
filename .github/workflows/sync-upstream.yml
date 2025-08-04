@@ -1,4 +1,4 @@
-name: Sync Fork with Upstream
+name: GOLD-GWAS - Sync Fork with Upstream
 
 on:
   schedule:
